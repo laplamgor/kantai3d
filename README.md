@@ -1,7 +1,8 @@
 # Kantai 3D
 Kantai 3D is a third-party mod for Kancolle - Kantai Collection. It brings 3D-like effects to (some of) your secretaries. 
 
-![0463_7319_grmdtyheocuc](https://user-images.githubusercontent.com/11514317/96752931-b8a0c980-1401-11eb-8e42-1b02b336435d.gif)
+![0463_7319_grmdtyheocuc](https://user-images.githubusercontent.com/11514317/96752931-b8a0c980-1401-11eb-8e42-1b02b336435d.gif) ![ezgif-3-10400017ed1e](https://user-images.githubusercontent.com/11514317/97005334-e0fb0600-1570-11eb-97b3-85896c1a463b.gif)
+
 
 It is NOT Live2D. It is parallax occlusion mapping (POM) rendering technique which uses a depth map to simulate occlusion of 3D lightray. The first game to use this technique is Crysis.
 
