@@ -16,6 +16,7 @@ Currently Kantai 3D does not support any medium damaged CG.
 # Installation
 
 Currently Kantai 3D is only available for PC and installed throught a [KC Cache Proxy](https://github.com/Tibowl/KCCacheProxy)
+
 Please setup the proxy and install this patcher mod: https://github.com/laplamgor/kantai3d-kccp-patcher
 
 # Contribute your own depth Map
@@ -36,4 +37,6 @@ However, just like OOI proxy or KC3Kai browser, Kantai 3D is not an officially a
 Please use it at your own risk. 
 
 
-This mod alone, does not include any data from the origin game. All depth maps used are also 100% hand-drawn. If you think it has infringed your right, please contact me at laplamgor@gmail.com
+This mod alone, does not include any data from the origin game. All depth maps used are also 100% hand-drawn. 
+
+if you have any questions or queries, please contact me at laplamgor@gmail.com
