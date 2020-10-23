@@ -1,13 +1,39 @@
 # Kantai 3D
+Kantai 3D is a third-party mod for Kancolle - Kantai Collection. It brings 3D-like effects to (some of) your secretaries. 
 
-# Intro
+![0463_7319_grmdtyheocuc](https://user-images.githubusercontent.com/11514317/96752931-b8a0c980-1401-11eb-8e42-1b02b336435d.gif)
 
+It is NOT Live2D. It is parallax occlusion mapping (POM) rendering technique which uses a depth map to simulate occlusion of 3D lightray. The first game to use this technique is Crysis.
 
 # Supported CGs
-You can find the name of the supported ships here:
-https://github.com/users/laplamgor/projects/1#column-10244994
 
-# How to use Kantai 3D
+Drawing depth maps is very time consuming and the number of supported CGs is slowing increasing.
+
+You can find the name of the supported ships [Here](https://github.com/users/laplamgor/projects/1#column-10244994)
+
+Currently Kantai 3D does not support any medium damaged CG.
+
+# Installation
+
+Currently Kantai 3D is only available for PC and installed throught a [KC Cache Proxy](https://github.com/Tibowl/KCCacheProxy)
+Please setup the proxy and install this patcher mod: https://github.com/laplamgor/kantai3d-kccp-patcher
+
+# Contribute your own depth Map
+
+In long term, I would like this project to be fan-based. It definitely needs more than one busy poor man to draw all depth maps for 200+ ships and 500+ CGs.
+
+I have created a [Photoshop Extension](https://github.com/laplamgor/kantai3d-photoshop-extension) to preview 3D effect in almost realtime.
+
+The [depth map drawing tutorial/guildline](https://github.com/laplamgor/kantai3d-depth-maps/wiki/0.-Before-You-Start) is still unfinished.
+
+But you can still download [all the depth maps PSD source files](https://github.com/laplamgor/kantai3d-depth-maps) to study how it works.
 
 
-# How to develop
+# Disclaimer
+Kantai 3D does not modify any ingame API request and response, nor affect your noraml gameplay.
+However, just like OOI proxy or KC3Kai browser, Kantai 3D is not an officially approved program.
+
+Please use it at your own risk. 
+
+
+This mod alone, does not include any data from the origin game. All depth maps used are also 100% hand-drawn. If you think it has infringed your right, please contact me at laplamgor@gmail.com
