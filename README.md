@@ -1,5 +1,12 @@
 Other Languages: [繁體中文](https://github.com/laplamgor/kantai3d/blob/main/README.zh-Hant.md)
 
+> Related Repositories:
+> * Install Option A: [Chrome Extension](https://github.com/Tibowl/KCCacheProxy)
+> * Install Option B: [KanColle Cache Proxy Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher)
+> * For Contributors: [Depth Map Library](https://github.com/laplamgor/kantai3d-depth-maps)
+> * For Contributors: [Photoshop Toolbox](https://github.com/laplamgor/kantai3d-photoshop-extension)
+
+
 # Kantai 3D
 Kantai 3D is a third-party mod for Kancolle - Kantai Collection. It brings 3D-like effects to (some of) your secretaries. 
 
@@ -18,9 +25,12 @@ Currently Kantai 3D does not support any medium damaged CG.
 
 # Installation
 
-Currently Kantai 3D is only available for PC and installed throught a [KC Cache Proxy](https://github.com/Tibowl/KCCacheProxy)
+Currently Kantai 3D is only available for PC and there for two options to install it.
 
-Please setup the proxy and install this patcher mod: https://github.com/laplamgor/kantai3d-kccp-patcher
+For Chrome user, please check out the [Chrome Extension](https://github.com/Tibowl/KCCacheProxy).
+
+For other user, you can use install throught [KanColle Cache Proxy Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher).
+The KCCP patcher requires [KC Cache Proxy](https://github.com/Tibowl/KCCacheProxy). 
 
 # Contribute your own depth Map
 
