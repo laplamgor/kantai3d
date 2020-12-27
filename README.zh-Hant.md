@@ -2,7 +2,7 @@
 
 
 > 相關代碼庫:
-> * 安裝方式一: [Chrome 擴充功能](https://github.com/Tibowl/KCCacheProxy)
+> * 安裝方式一: [Chrome 擴充功能](https://github.com/laplamgor/kantai3d-chrome-extension)
 > * 安裝方式二: [KanColle Cache Proxy Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher)
 > * 貢獻深度圖適用: [深度圖庫](https://github.com/laplamgor/kantai3d-depth-maps)
 > * 貢獻深度圖適用: [Photoshop 工具](https://github.com/laplamgor/kantai3d-photoshop-extension)
@@ -28,7 +28,7 @@
 
 目前艦隊立體化改修只支持 PC 端使用並有兩個安裝方法（二選一）：
 
-Chrome 用戶請使用 [Chrome 擴充功能](https://github.com/Tibowl/KCCacheProxy).
+Chrome 用戶請使用 [Chrome 擴充功能](https://github.com/laplamgor/kantai3d-chrome-extension).
 
 非 Chrome 用戶可利用 [KanColle Cache Proxy Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher).
 需配合 [KC Cache Proxy](https://github.com/Tibowl/KCCacheProxy) 一併使用. 
