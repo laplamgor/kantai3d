@@ -1,7 +1,7 @@
 Other Languages: [繁體中文](https://github.com/laplamgor/kantai3d/blob/main/README.zh-Hant.md)
 
 > Related Repositories:
-> * Install Option A: [Chrome Extension](https://github.com/Tibowl/KCCacheProxy)
+> * Install Option A: [Chrome Extension](https://github.com/laplamgor/kantai3d-chrome-extension)
 > * Install Option B: [KanColle Cache Proxy Patcher](https://github.com/laplamgor/kantai3d-chrome-extension)
 > * For Contributors: [Depth Map Library](https://github.com/laplamgor/kantai3d-depth-maps)
 > * For Contributors: [Photoshop Toolbox](https://github.com/laplamgor/kantai3d-photoshop-extension)
