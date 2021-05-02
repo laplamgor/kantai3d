@@ -4,6 +4,7 @@
 > 相關代碼庫:
 > * 安裝方式一: [Chrome 擴充功能](https://github.com/laplamgor/kantai3d-chrome-extension)
 > * 安裝方式二: [KanColle Cache Proxy Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher)
+> * 安裝方式三(安卓): [GotoBrowser](https://github.com/antest1/GotoBrowser)
 > * 貢獻深度圖適用: [深度圖庫](https://github.com/laplamgor/kantai3d-depth-maps)
 > * 貢獻深度圖適用: [Photoshop 工具](https://github.com/laplamgor/kantai3d-photoshop-extension)
 
