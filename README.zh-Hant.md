@@ -11,13 +11,16 @@
 
 
 
-# 艦隊立體化改修
-艦隊立體化改修 是艦隊收藏的第三方製作的遊戲MOD。唯一功能是為部份秘書艦添加仿立體的視覺效果。
+# Kantai3D
+Kantai3D (前稱：艦隊立體化改修) 是艦隊收藏的第三方製作的遊戲MOD。唯一功能是為部份秘書艦添加仿立體的視覺效果。
+
+本 MOD 並無使用 Live2D 技術亦與 PSV 遊戲無關。 本 MOD 的立體效果是使用視差遮蔽映射 (POM) 算法加上自製的深度圖渲染而成。順帶一提，3D大作遊戲經常在牆壁、地面上使用視差遮蔽映射特效增強凹凸感。
 
 ![0463_7319_grmdtyheocuc](https://user-images.githubusercontent.com/11514317/96752931-b8a0c980-1401-11eb-8e42-1b02b336435d.gif) ![ezgif-3-10400017ed1e](https://user-images.githubusercontent.com/11514317/97005334-e0fb0600-1570-11eb-97b3-85896c1a463b.gif)
 
 
-本 MOD 並無使用 Live2D 技術亦與 PSV 遊戲無關。 本 MOD 的立體效果是使用視差遮蔽映射 (POM) 算法加上自製的深度圖渲染而成。順帶一提，首個使用視差遮蔽映射特效的遊戲是 Crysis.
+https://user-images.githubusercontent.com/11514317/126891746-ab3d0386-d7a8-47fb-9743-38cf6b5bfbeb.mp4
+
 
 # 立繪的立體化進度
 
@@ -31,20 +34,31 @@
 
 目前艦隊立體化改修只支持 PC 端使用並有兩個安裝方法（二選一）：
 
-Chrome 用戶請使用 [Chrome 擴充功能](https://github.com/laplamgor/kantai3d-chrome-extension).
+PC Chrome 用戶請使用 [Chrome 擴充功能](https://github.com/laplamgor/kantai3d-chrome-extension)。
 
-非 Chrome 用戶可利用 [KanColle Cache Proxy Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher).
-需配合 [KC Cache Proxy](https://github.com/Tibowl/KCCacheProxy) 一併使用. 
+PC 非 Chrome 用戶可利用 [KanColle Cache Proxy Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher)。
+需配合 [KC Cache Proxy](https://github.com/Tibowl/KCCacheProxy) 一併使用。
+
+安卓用戶可使用第三方瀏覽器[GotoBrowser](https://github.com/antest1/GotoBrowser)。已內置Kantai3D作為試驗性功能。
 
 # 貢獻自製深度圖
 
-In long term, I would like this project to be fan-based. It definitely needs more than one busy poor man to draw all depth maps for 200+ ships and 500+ CGs.
+製作深度圖需時，只有一個人做怎麼可能補回全部船。
 
-I have created a [Photoshop Extension](https://github.com/laplamgor/kantai3d-photoshop-extension) to preview 3D effect in almost realtime.
+長遠打算必須開放生態，引進能自願參與製作深度圖的玩家們。
 
-The [depth map drawing tutorial/guildline](https://github.com/laplamgor/kantai3d-depth-maps/wiki/0.-Before-You-Start) is still unfinished.
+因為PS門檻太高，深度圖原理又不好懂，我連[深度在線圖編輯器](https://github.com/laplamgor/kantai3d-online-editor)都整出來了。
 
-But you can still download [all the depth maps PSD source files](https://github.com/laplamgor/kantai3d-depth-maps) to study how it works.
+直接點進去看看再算吧。也許比您想像中的簡單。
+
+(另外由於版權問題，原立繪素材您還是自己找吧)
+
+## 經Pull Request 或者電郵提交
+
+如果您想貢獻您的自製深度圖，可以自行去[這個專業](https://github.com/laplamgor/kantai3d-depth-maps)提交PR.
+
+不懂PR是什麼？直接發成品給到我電郵地址都可以！
+
 
 
 # 免責聲明
