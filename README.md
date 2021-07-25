@@ -5,7 +5,7 @@ Other Languages: [繁體中文](https://github.com/laplamgor/kantai3d/blob/main/
 > Related Repositories:
 > * Install Option A (PC): [Chrome Extension](https://github.com/laplamgor/kantai3d-chrome-extension)
 > * Install Option B (PC): [KanColle Cache Proxy Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher)
-> * Install Option C (Android): [GotoBrowser v2.6+](https://github.com/antest1/GotoBrowser) - Kantai3D available in App Setting page
+> * Install Option C (Android): [GotoBrowser (2.6 or newer)](https://github.com/antest1/GotoBrowser) - Kantai3D available in its setting page
 > * For Contributors: [Depth Map Library](https://github.com/laplamgor/kantai3d-depth-maps)
 > * For Contributors (Deprecated): ~~[Photoshop Depth Map Preview Toolbox](https://github.com/laplamgor/kantai3d-photoshop-extension)~~
 > * For Contributors (in Beta): [Web-based Depth Map Editor](https://github.com/laplamgor/kantai3d-online-editor)
@@ -31,7 +31,7 @@ Currently Kantai3D does not support any medium damaged CG.
 
 # Installation
 
-Currently Kantai3D is only available for PC and there for two options to install it.
+Currently Kantai3D is only available for limited platforms and there are a few options to install it.
 
 For PC Chrome user, please check out the [Chrome Extension](https://github.com/laplamgor/kantai3d-chrome-extension).
 
