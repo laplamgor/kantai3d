@@ -6,8 +6,8 @@
 > * 安裝方式二: [KanColle Cache Proxy Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher)
 > * 安裝方式三(安卓): [GotoBrowser](https://github.com/antest1/GotoBrowser)
 > * 貢獻深度圖適用: [深度圖庫](https://github.com/laplamgor/kantai3d-depth-maps)
-> * 貢獻深度圖適用: [Photoshop 工具](https://github.com/laplamgor/kantai3d-photoshop-extension)
-> * 貢獻深度圖適用 (即將推出): [網頁版編輯器](https://github.com/laplamgor/kantai3d-online-editor)
+> * 貢獻深度圖適用 (已棄用): ~~[Photoshop 深度圖預覽插件](https://github.com/laplamgor/kantai3d-photoshop-extension)~~
+> * 貢獻深度圖適用 (公測中): [網頁版編輯器](https://github.com/laplamgor/kantai3d-online-editor)
 
 
 
