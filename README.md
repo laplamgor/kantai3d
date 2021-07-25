@@ -11,8 +11,8 @@ Other Languages: [繁體中文](https://github.com/laplamgor/kantai3d/blob/main/
 > * For Contributors (in Beta): [Web-based Depth Map Editor](https://github.com/laplamgor/kantai3d-online-editor)
 
 
-# Kantai 3D
-Kantai 3D is a third-party mod for Kancolle - Kantai Collection. It brings 3D-like effects to (some of) your secretaries. 
+# Kantai3D
+Kantai3D is a third-party mod for Kancolle - Kantai Collection. It brings 3D-like effects to (some of) your secretaries. 
 
 It is NOT Live2D. It is parallax occlusion mapping (POM) rendering technique which uses a depth map to simulate occlusion of 3D lightray. 3D AAA game usually use this technique 乞walls and floor for extra bump visual effects.
 
@@ -27,11 +27,11 @@ Drawing depth maps is very time consuming and the number of supported CGs is slo
 
 You can find the name of the supported ships [Here](https://github.com/users/laplamgor/projects/1#column-10244994)
 
-Currently Kantai 3D does not support any medium damaged CG.
+Currently Kantai3D does not support any medium damaged CG.
 
 # Installation
 
-Currently Kantai 3D is only available for PC and there for two options to install it.
+Currently Kantai3D is only available for PC and there for two options to install it.
 
 For PC Chrome user, please check out the [Chrome Extension](https://github.com/laplamgor/kantai3d-chrome-extension).
 
@@ -62,8 +62,8 @@ Or if you are not familiar with Github, you can also just email me your work!
 
 
 # Disclaimer
-Kantai 3D does not modify any ingame API request and response, nor affect your noraml gameplay.
-However, just like OOI proxy or KC3Kai browser, Kantai 3D is not an officially approved program.
+Kantai3D does not modify any ingame API request and response, nor affect your noraml gameplay.
+However, just like OOI proxy or KC3Kai browser, Kantai3D is not an officially approved program.
 
 Please use it at your own risk. 
 
