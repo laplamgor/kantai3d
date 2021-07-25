@@ -33,10 +33,12 @@ Currently Kantai 3D does not support any medium damaged CG.
 
 Currently Kantai 3D is only available for PC and there for two options to install it.
 
-For Chrome user, please check out the [Chrome Extension](https://github.com/laplamgor/kantai3d-chrome-extension).
+For PC Chrome user, please check out the [Chrome Extension](https://github.com/laplamgor/kantai3d-chrome-extension).
 
-For other user, you can use install throught [KanColle Cache Proxy Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher).
+For other PC user, you can use install throught [KanColle Cache Proxy Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher).
 The KCCP patcher requires [KC Cache Proxy](https://github.com/Tibowl/KCCacheProxy). 
+
+For Android user, you can use try [GotoBrowser](https://github.com/antest1/GotoBrowser) which is third party Kancolle browser app with built-in Kantai3D (as an experienmental feature).
 
 # Contribute your own depth Map
 
