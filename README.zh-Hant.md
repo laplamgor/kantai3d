@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/11514317/126891746-ab3d0386-d7a8-47fb-
 
 # 安裝方法
 
-目前艦隊立體化改修只支持 PC 端使用並有兩個安裝方法（二選一）：
+目前Kantai3D只支持一部份客戶端使用，您有以下安裝方法可選：
 
 PC Chrome 用戶請使用 [Chrome 擴充功能](https://github.com/laplamgor/kantai3d-chrome-extension)。
 
@@ -62,7 +62,7 @@ PC 非 Chrome 用戶可利用 [KanColle Cache Proxy Patcher](https://github.com/
 
 
 # 免責聲明
-艦隊立體化改修不會修改任何遊戲內API收發，不干預原本的遊戲流程。
+Kantai3D不會修改任何遊戲內API收發，不干預原本的遊戲流程。
 但和其他第三方插件、瀏覽器或工具一樣，都沒有官方正式同意使用的明確聲明。
 
 請自行承擔使用風險。
