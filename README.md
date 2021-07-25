@@ -7,8 +7,8 @@ Other Languages: [繁體中文](https://github.com/laplamgor/kantai3d/blob/main/
 > * Install Option B (PC): [KanColle Cache Proxy Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher)
 > * Install Option C (Android): [GotoBrowser](https://github.com/antest1/GotoBrowser) - Available in App Setting page
 > * For Contributors: [Depth Map Library](https://github.com/laplamgor/kantai3d-depth-maps)
-> * For Contributors: [Photoshop Depth Map Preview Toolbox](https://github.com/laplamgor/kantai3d-photoshop-extension)
-> * For Contributors (Coming soon): [Web-based Depth Map Editor](https://github.com/laplamgor/kantai3d-online-editor)
+> * For Contributors (Deprecated): ~~[Photoshop Depth Map Preview Toolbox](https://github.com/laplamgor/kantai3d-photoshop-extension)~~
+> * For Contributors (in Beta): [Web-based Depth Map Editor](https://github.com/laplamgor/kantai3d-online-editor)
 
 
 # Kantai 3D
