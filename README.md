@@ -14,7 +14,7 @@ Other Languages: [繁體中文](https://github.com/laplamgor/kantai3d/blob/main/
 # Kantai 3D
 Kantai 3D is a third-party mod for Kancolle - Kantai Collection. It brings 3D-like effects to (some of) your secretaries. 
 
-It is NOT Live2D. It is parallax occlusion mapping (POM) rendering technique which uses a depth map to simulate occlusion of 3D lightray. The first game to use this technique is Crysis.
+It is NOT Live2D. It is parallax occlusion mapping (POM) rendering technique which uses a depth map to simulate occlusion of 3D lightray. 3D AAA game usually use this technique 乞walls and floor for extra bump visual effects.
 
 ![0463_7319_grmdtyheocuc](https://user-images.githubusercontent.com/11514317/96752931-b8a0c980-1401-11eb-8e42-1b02b336435d.gif) ![ezgif-3-10400017ed1e](https://user-images.githubusercontent.com/11514317/97005334-e0fb0600-1570-11eb-97b3-85896c1a463b.gif)
 
@@ -42,11 +42,21 @@ The KCCP patcher requires [KC Cache Proxy](https://github.com/Tibowl/KCCacheProx
 
 In long term, I would like this project to be fan-based. It definitely needs more than one busy poor man to draw all depth maps for 200+ ships and 500+ CGs.
 
-I have created a [Photoshop Extension](https://github.com/laplamgor/kantai3d-photoshop-extension) to preview 3D effect in almost realtime.
+~~I have created a [Photoshop Extension](https://github.com/laplamgor/kantai3d-photoshop-extension) to preview 3D effect in almost realtime.~~
 
-The [depth map drawing tutorial/guildline](https://github.com/laplamgor/kantai3d-depth-maps/wiki/0.-Before-You-Start) is still unfinished.
+~~The [depth map drawing tutorial/guildline](https://github.com/laplamgor/kantai3d-depth-maps/wiki/0.-Before-You-Start) is still unfinished.~~
 
-But you can still download [all the depth maps PSD source files](https://github.com/laplamgor/kantai3d-depth-maps) to study how it works.
+~~But you can still download [all the depth maps PSD source files](https://github.com/laplamgor/kantai3d-depth-maps) to study how it works.~~
+
+I have created an [online editor](https://github.com/laplamgor/kantai3d-online-editor) to draw depth map.
+
+You can create depth map for your favorite ship CG. (CG base image will not not provided by me due to copyright.)
+
+## Pull Request or Email
+
+If you want your depth map to work with Kantai3D, just do a pull request [on this repo](https://github.com/laplamgor/kantai3d-depth-maps).
+
+Or if you are not familiar with Github, you can also just email me your work!
 
 
 # Disclaimer
