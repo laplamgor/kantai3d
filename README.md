@@ -7,19 +7,28 @@ Other Languages: [繁體中文](https://github.com/laplamgor/kantai3d/blob/main/
 > * Install Option B (PC): [KanColle Cache Proxy Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher)
 > * Install Option C (Android): [GotoBrowser (2.6 or newer)](https://github.com/antest1/GotoBrowser) - Kantai3D available in its setting page
 > * For Contributors: [Depth Map Library](https://github.com/laplamgor/kantai3d-depth-maps)
-> * For Contributors (Deprecated): ~~[Photoshop Depth Map Preview Toolbox](https://github.com/laplamgor/kantai3d-photoshop-extension)~~
 > * For Contributors (in Beta): [Web-based Depth Map Editor](https://github.com/laplamgor/kantai3d-online-editor)
 
 
 # Kantai3D
-Kantai3D is a third-party mod for Kancolle - Kantai Collection. It brings 3D-like effects to (some of) your secretaries. 
+Kantai3D is a third-party mod for Kancolle - Kantai Collection. It brings 3D-like effects and jiggle physics to (some of) your secretaries. 
 
-It is NOT Live2D. It is parallax occlusion mapping (POM) rendering technique which uses a depth map to simulate occlusion of 3D lightray. 3D AAA game usually use this technique on walls and floor for extra bump visual effects.
+
+### 3D effect demo:
 
 ![0463_7319_grmdtyheocuc](https://user-images.githubusercontent.com/11514317/96752931-b8a0c980-1401-11eb-8e42-1b02b336435d.gif) ![ezgif-3-10400017ed1e](https://user-images.githubusercontent.com/11514317/97005334-e0fb0600-1570-11eb-97b3-85896c1a463b.gif)
 
+### Jiggle physics demo:
+
+![ezgif-7-39734d119569](https://user-images.githubusercontent.com/11514317/134775124-3ceb0bc6-a425-47c9-8219-5fb181767ade.gif)
+
+It also works on mobile client (Gotobrowser):
 
 https://user-images.githubusercontent.com/11514317/126891746-ab3d0386-d7a8-47fb-9743-38cf6b5bfbeb.mp4
+
+
+It is NOT Live2D. It is parallax occlusion mapping (POM) rendering technique which uses a depth map to simulate occlusion of 3D lightray. 3D AAA game usually use this technique on walls and floor for extra bump visual effects.
+
 
 # Supported CGs
 
@@ -43,12 +52,6 @@ For Android user, you can use try [GotoBrowser](https://github.com/antest1/GotoB
 # Contribute your own depth Map
 
 In long term, I would like this project to be fan-based. It definitely needs more than one busy poor man to draw all depth maps for 200+ ships and 500+ CGs.
-
-~~I have created a [Photoshop Extension](https://github.com/laplamgor/kantai3d-photoshop-extension) to preview 3D effect in almost realtime.~~
-
-~~The [depth map drawing tutorial/guildline](https://github.com/laplamgor/kantai3d-depth-maps/wiki/0.-Before-You-Start) is still unfinished.~~
-
-~~But you can still download [all the depth maps PSD source files](https://github.com/laplamgor/kantai3d-depth-maps) to study how it works.~~
 
 I have created an [online editor](https://github.com/laplamgor/kantai3d-online-editor) to draw depth map.
 
