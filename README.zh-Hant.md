@@ -12,14 +12,18 @@
 
 
 # Kantai3D
-Kantai3D (前稱：艦隊立體化改修) 是艦隊收藏的第三方製作的遊戲MOD。唯一功能是為部份秘書艦添加仿立體的視覺效果。
+Kantai3D (前稱：艦隊立體化改修) 是艦隊收藏的第三方製作的遊戲MOD。唯一功能是為部份秘書艦添加仿立體的視覺效果及胸部物理。
 
-本 MOD 並無使用 Live2D 技術亦與 PSV 遊戲無關。 本 MOD 的立體效果是使用視差遮蔽映射 (POM) 算法加上自製的深度圖渲染而成。順帶一提，3D大作遊戲經常在牆壁、地面上使用視差遮蔽映射特效增強凹凸感。
+
+### 仿立體效果：
 
 ![0463_7319_grmdtyheocuc](https://user-images.githubusercontent.com/11514317/96752931-b8a0c980-1401-11eb-8e42-1b02b336435d.gif) ![ezgif-3-10400017ed1e](https://user-images.githubusercontent.com/11514317/97005334-e0fb0600-1570-11eb-97b3-85896c1a463b.gif)
 
+### 胸部物理：
 
-https://user-images.githubusercontent.com/11514317/126891746-ab3d0386-d7a8-47fb-9743-38cf6b5bfbeb.mp4
+![ezgif-7-39734d119569](https://user-images.githubusercontent.com/11514317/134775124-3ceb0bc6-a425-47c9-8219-5fb181767ade.gif)
+
+本 MOD 並無使用 Live2D 技術亦與 PSV 遊戲無關。 本 MOD 的立體效果是使用視差遮蔽映射 (POM) 算法加上自製的深度圖渲染而成。順帶一提，3D大作遊戲經常在牆壁、地面上使用視差遮蔽映射特效增強凹凸感。
 
 
 # 立繪的立體化進度
@@ -49,15 +53,13 @@ PC 非 Chrome 用戶可利用 [KanColle Cache Proxy Patcher](https://github.com/
 
 因為PS門檻太高，深度圖原理又不好懂，我連[深度在線圖編輯器](https://github.com/laplamgor/kantai3d-online-editor)都整出來了。
 
-直接點進去看看再算吧。也許比您想像中的簡單。
-
-(另外由於版權問題，原立繪素材您還是自己找吧)
+(另外由於版權問題，原立繪素材請自行獲取)
 
 ## 經Pull Request 或者電郵提交
 
 如果您想貢獻您的自製深度圖，可以自行去[這個專業](https://github.com/laplamgor/kantai3d-depth-maps)提交PR.
 
-不懂PR是什麼？直接發成品給到我電郵地址都可以！
+或者直接發成品給到我的電郵地址
 
 
 
