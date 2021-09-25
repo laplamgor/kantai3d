@@ -1,4 +1,4 @@
-其他語言：[English](https://github.com/laplamgor/kantai3d/blob/main/README.md)
+其他語言：[English](https://github.com/laplamgor/kantai3d/blob/main/README.md) [日本語](https://github.com/laplamgor/kantai3d/blob/main/README.ja.md)
 
 
 > 相關代碼庫:
