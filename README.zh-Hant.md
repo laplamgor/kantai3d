@@ -3,8 +3,9 @@
 
 > 相關代碼庫:
 > * 安裝方式一: [Chrome 擴充功能](https://github.com/laplamgor/kantai3d-chrome-extension)
-> * 安裝方式二: [KanColle Cache Proxy Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher)
-> * 安裝方式三(安卓): [GotoBrowser](https://github.com/antest1/GotoBrowser)
+> * 安裝方式二: [poi 插件](https://github.com/laplamgor/kantai3d-poi-plugin)
+> * 安裝方式三: [KanColle Cache Proxy Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher)
+> * 安裝方式四(安卓): [GotoBrowser](https://github.com/antest1/GotoBrowser)
 > * 貢獻深度圖適用: [深度圖庫](https://github.com/laplamgor/kantai3d-depth-maps)
 > * 貢獻深度圖適用 (已棄用): ~~[Photoshop 深度圖預覽插件](https://github.com/laplamgor/kantai3d-photoshop-extension)~~
 > * 貢獻深度圖適用 (公測中): [網頁版編輯器](https://github.com/laplamgor/kantai3d-online-editor)
@@ -19,20 +20,18 @@ Kantai3D (前稱：艦隊立體化改修) 是艦隊收藏的第三方製作的�
 
 ![0463_7319_grmdtyheocuc](https://user-images.githubusercontent.com/11514317/96752931-b8a0c980-1401-11eb-8e42-1b02b336435d.gif) ![ezgif-3-10400017ed1e](https://user-images.githubusercontent.com/11514317/97005334-e0fb0600-1570-11eb-97b3-85896c1a463b.gif)
 
-### 胸部物理：
+### 胸部物理  (v2.0+)：
 
 ![ezgif-7-39734d119569](https://user-images.githubusercontent.com/11514317/134775124-3ceb0bc6-a425-47c9-8219-5fb181767ade.gif)
 
 本 MOD 並無使用 Live2D 技術亦與 PSV 遊戲無關。 本 MOD 的立體效果是使用視差遮蔽映射 (POM) 算法加上自製的深度圖渲染而成。順帶一提，3D大作遊戲經常在牆壁、地面上使用視差遮蔽映射特效增強凹凸感。
 
 
-# 立繪的立體化進度
+# [支持立體效果的立繪](https://github.com/users/laplamgor/projects/1#column-10244994)
 
 繪製深度圖需時，深度圖庫正慢速增長中。
 
-這可以在 [這裡](https://github.com/users/laplamgor/projects/1#column-10244994) 找到所有支持立體效果的船名。
-
-目前未支持任何中破立繪。
+p.s. 目前未支持任何中破立繪。
 
 # 安裝方法
 
@@ -40,7 +39,9 @@ Kantai3D (前稱：艦隊立體化改修) 是艦隊收藏的第三方製作的�
 
 PC Chrome 用戶請使用 [Chrome 擴充功能](https://github.com/laplamgor/kantai3d-chrome-extension)。
 
-PC 非 Chrome 用戶可利用 [KanColle Cache Proxy Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher)。
+PC poi 用戶請於"擴展程式"頁安裝 [專用插件](https://github.com/laplamgor/kantai3d-poi-plugin)。
+
+PC 其他瀏覽器用戶可利用 [KanColle Cache Proxy Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher)。
 需配合 [KC Cache Proxy](https://github.com/Tibowl/KCCacheProxy) 一併使用。
 
 安卓用戶可使用第三方瀏覽器[GotoBrowser](https://github.com/antest1/GotoBrowser)。已內置Kantai3D作為試驗性功能。
