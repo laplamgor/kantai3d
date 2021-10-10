@@ -61,12 +61,13 @@ Or if you are not familiar with Github, you can also just email me your work.
 
 
 # Disclaimer
-Kantai3D does not modify any ingame API request and response, nor affect your noraml gameplay.
-However, just like OOI proxy or KC3Kai browser, Kantai3D is not an officially approved program.
+Kantai3D is not an officially approved program. Using it may be aganist the Terms of Service of DMM.
+
+Kantai3D modifies your local game client (main.js) in order to achieve the visual effects but does not modify any ingame API request and response. It does not affect your noraml gameplay or game balance. 
 
 Please use it at your own risk. 
 
 
 This mod alone, does not include any data from the origin game. All depth maps used are also 100% hand-drawn. 
 
-if you have any questions or queries, please contact me at laplamgor@gmail.com
+If you have any questions or queries, please contact me at laplamgor@gmail.com
