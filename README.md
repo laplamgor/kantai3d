@@ -28,7 +28,9 @@ Kantai3D is a third-party mod for Kancolle - Kantai Collection. It brings 3D-lik
 It is NOT Live2D. It is parallax occlusion mapping (POM) rendering technique which uses a depth map to simulate occlusion of 3D lightray. 3D AAA game usually use this technique on walls and floor for extra bump visual effects.
 
 
-# [Supported CGs](https://github.com/users/laplamgor/projects/1#column-10244994)
+# [Supported CGs](https://github.com/users/laplamgor/projects/3/views/1)
+
+https://github.com/users/laplamgor/projects/3/views/1
 
 Drawing depth maps is very time consuming and the number of supported CGs is slowing increasing. Please consider contributing depth maps for your favorite ships.
 
