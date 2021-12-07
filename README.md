@@ -20,7 +20,7 @@ Kantai3D is a third-party mod for Kancolle - Kantai Collection. It brings 3D-lik
 
 ![ezgif-5-651e1f9db9ac](https://user-images.githubusercontent.com/11514317/144702627-36642582-4b92-4af7-8c58-613d7acca56e.gif)
 
-### Jiggle physics (adding since v2.0):
+### Jiggle physics (Since v2.0):
 
 ![ezgif-7-39734d119569](https://user-images.githubusercontent.com/11514317/134775124-3ceb0bc6-a425-47c9-8219-5fb181767ade.gif)
 ![ezgif-5-7d7de6bb4a51](https://user-images.githubusercontent.com/11514317/144702132-9954f9ad-f43a-41f3-8db9-6eceda3ca156.gif)
@@ -57,6 +57,8 @@ I have created an [online editor](https://github.com/laplamgor/kantai3d-online-e
 
 You can create depth map for your favorite ship CG. (CG base image will not not provided by me due to copyright.)
 
+You can also email me about
+
 ## Pull Request or Email
 
 If you want your depth map to work with Kantai3D, just do a pull request [on this repo](https://github.com/laplamgor/kantai3d-depth-maps).
@@ -64,7 +66,7 @@ If you want your depth map to work with Kantai3D, just do a pull request [on thi
 Or if you are not familiar with Github, you can also just email me your work.
 
 
-# Disclaimer
+# Disclaimers
 Kantai3D is not an officially approved program. Using it may be aganist the Terms of Service of DMM.
 
 Kantai3D modifies your local game client (main.js) in order to achieve the visual effects but does not modify any ingame API request and response. It does not affect your noraml gameplay or game balance. 
