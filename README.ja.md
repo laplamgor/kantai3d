@@ -16,18 +16,22 @@ Kantai3D は艦隊これくしょんのサードパーティMODです。一部�
 
 
 ### 3Dのような視覚効果:
+![ezgif-5-acf95d0da0e8](https://user-images.githubusercontent.com/11514317/144702625-fcf94f94-adc7-4741-b098-976cf757c556.gif)
 
-![0463_7319_grmdtyheocuc](https://user-images.githubusercontent.com/11514317/96752931-b8a0c980-1401-11eb-8e42-1b02b336435d.gif) ![ezgif-3-10400017ed1e](https://user-images.githubusercontent.com/11514317/97005334-e0fb0600-1570-11eb-97b3-85896c1a463b.gif)
+![ezgif-5-651e1f9db9ac](https://user-images.githubusercontent.com/11514317/144702627-36642582-4b92-4af7-8c58-613d7acca56e.gif)
 
 ### おける乳揺れ (v2.0+):
 
 ![ezgif-7-39734d119569](https://user-images.githubusercontent.com/11514317/134775124-3ceb0bc6-a425-47c9-8219-5fb181767ade.gif)
+![ezgif-5-7d7de6bb4a51](https://user-images.githubusercontent.com/11514317/144702132-9954f9ad-f43a-41f3-8db9-6eceda3ca156.gif)
 
 
 Live2Dではありません。これは、視差遮蔽マッピング（POM）レンダリング手法であり、深度マップを使用して3D光線の閉塞をシミュレートします。
 
 
-# [3D対応艦娘/CG](https://github.com/users/laplamgor/projects/1#column-10244994)
+# [3D対応艦娘/CG](https://github.com/users/laplamgor/projects/3/views/1)
+
+https://github.com/users/laplamgor/projects/3/views/1
 
 デプスマップの描画には非常に時間がかかり、3D対応艦娘の数は徐々に増加しています。
 
