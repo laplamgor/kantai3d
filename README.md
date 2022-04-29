@@ -37,7 +37,7 @@ There are two types of depth maps:
    - Only a few ships has custom depth maps currently. 
    - Custom depth maps are higher quality and may contain jiggle effects.
 2. [AI generated depth maps (MiDaS)](https://github.com/isl-org/MiDaS)
-   - They cover almost every ship CG with a custom map. 
+   - They cover almost every ship CG without a custom map. 
    - 3D effect quality is rougher.
    - They do not support jiggle effects.
 
@@ -81,6 +81,6 @@ Kantai3D modifies your local game client (main.js) to achieve the visual effects
 Please use it at your own risk. 
 
 
-This mod alone does not include any data from the origin game. All depth maps used are also 100% hand-drawn. 
+This mod alone does not include any data from the origin game. All custom depth maps used are 100% hand-drawn. AI generated results are however not included in the scope of this open source project due to potential copyright issues.
 
 If you have any questions or queries, please contact me at laplamgor@gmail.com
