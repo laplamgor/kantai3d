@@ -7,7 +7,7 @@
 > * 安裝方式三: [KanColle Cache Proxy Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher)
 > * 安裝方式四(安卓): [GotoBrowser](https://github.com/antest1/GotoBrowser)
 > * 貢獻深度圖適用: [深度圖庫](https://github.com/laplamgor/kantai3d-depth-maps)
-> * 貢獻深度圖適用 (已棄用): ~~[Photoshop 深度圖預覽插件](https://github.com/laplamgor/kantai3d-photoshop-extension)~~
+> * 貢獻自定義深度圖適用 (已棄用): ~~[Photoshop 深度圖預覽插件](https://github.com/laplamgor/kantai3d-photoshop-extension)~~
 > * 貢獻深度圖適用 (公測中): [網頁版編輯器](https://github.com/laplamgor/kantai3d-online-editor)
 
 
@@ -16,27 +16,35 @@
 Kantai3D (前稱：艦隊立體化改修) 是艦隊收藏的第三方製作的遊戲MOD。唯一功能是為部份秘書艦添加仿立體的視覺效果及胸部物理。
 
 
-### 仿立體效果：
+### 1. 仿立體效果：
 
 ![ezgif-5-acf95d0da0e8](https://user-images.githubusercontent.com/11514317/144702625-fcf94f94-adc7-4741-b098-976cf757c556.gif)
-
 ![ezgif-5-651e1f9db9ac](https://user-images.githubusercontent.com/11514317/144702627-36642582-4b92-4af7-8c58-613d7acca56e.gif)
 
-### 胸部物理  (v2.0+)：
+本 MOD 並無使用 Live2D 技術亦與 PSV 遊戲無關。 本 MOD 的立體效果是使用視差遮蔽映射 (POM) 算法加上自製的深度圖渲染而成。順帶一提，3D大作遊戲經常在牆壁、地面上使用視差遮蔽映射特效增強凹凸感。
+
+### 2. 胸部物理  (v2.0+, 定制深度圖限定)：
 
 ![ezgif-7-39734d119569](https://user-images.githubusercontent.com/11514317/134775124-3ceb0bc6-a425-47c9-8219-5fb181767ade.gif)
 ![ezgif-5-7d7de6bb4a51](https://user-images.githubusercontent.com/11514317/144702132-9954f9ad-f43a-41f3-8db9-6eceda3ca156.gif)
 
-本 MOD 並無使用 Live2D 技術亦與 PSV 遊戲無關。 本 MOD 的立體效果是使用視差遮蔽映射 (POM) 算法加上自製的深度圖渲染而成。順帶一提，3D大作遊戲經常在牆壁、地面上使用視差遮蔽映射特效增強凹凸感。
+### 3. 遊戲內置設定 (v3.0+):
+
+![download](https://user-images.githubusercontent.com/11514317/166011636-9b9a93cc-5786-4983-91a1-963da70ce514.png)
 
 
-# [支持立體效果的立繪](https://github.com/users/laplamgor/projects/3/views/1)
+# 支持立體效果的立繪
 
-https://github.com/users/laplamgor/projects/3/views/1
+深度圖分為兩種： 
+1. [自定義手繪深度圖](https://github.com/users/laplamgor/projects/3/views/1)
+   - 目前只有小部份立繪有自定義手繪深度圖。
+   - 自定義深度圖的立體效果品質更高，而且可支持胸部物理。
+2. [深度學習產生的深度圖](https://github.com/isl-org/MiDaS)
+   - 幾乎可以覆蓋所有未有自定義手繪深度圖的立繪。 
+   - 立體效果品質普遍較粗糙。
+   - 自定義深度圖的立體效果品質更高，而且可支持胸部物理。
 
-繪製深度圖需時，深度圖庫正慢速增長中。
-
-p.s. 目前未支持任何中破立繪。
+繪製自定義深度圖需時，自定義深度圖庫正慢速增長中。
 
 # 安裝方法
 
@@ -51,7 +59,7 @@ PC 其他瀏覽器用戶可利用 [KanColle Cache Proxy Patcher](https://github.
 
 安卓用戶可使用第三方瀏覽器[GotoBrowser](https://github.com/antest1/GotoBrowser)。已內置Kantai3D作為試驗性功能。
 
-# 貢獻自製深度圖
+# 貢獻自定義手繪深度圖
 
 製作深度圖需時，只有一個人做怎麼可能補回全部船。
 
