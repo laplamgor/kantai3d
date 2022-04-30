@@ -56,15 +56,15 @@ The KCCP patcher requires [KC Cache Proxy](https://github.com/Tibowl/KCCacheProx
 
 For Android users, you can use [GotoBrowser](https://github.com/antest1/GotoBrowser) which is a third-party Kancolle browser app with built-in Kantai3D (as an experimental feature).
 
-# Contribute your depth Map
+# Contribute your custom depth Map
 
 In long term, I would like this project to be fan-based. It needs more than one busy poor man to draw all depth maps for 200+ ships and 500+ CGs.
 
-I have created an [online editor](https://github.com/laplamgor/kantai3d-online-editor) to draw a depth map.
+I have created an [online editor](https://github.com/laplamgor/kantai3d-online-editor) to draw a custom depth map.
 
-You can create a depth map for your favorite ship CG. (CG base image will not be provided by me due to copyright.)
+You can create a custom depth map for your favorite ship CG. (CG base image will not be provided by me due to copyright.)
 
-You can also email me about
+You can also email me for more details.
 
 ## Pull Request or Email
 
