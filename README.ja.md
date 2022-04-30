@@ -3,7 +3,7 @@
 他の言語： [English](https://github.com/laplamgor/kantai3d/blob/main/README.md) [繁體中文](https://github.com/laplamgor/kantai3d/blob/main/README.zh-Hant.md)
 
 > 関連リポジトリ：
-> * 設定方法 A (パソコン Chrome): [Chrome拡張機能](https://github.com/laplamgor/kantai3d-chrome-extension)
+> * 設定方法 A (パソコン Chrome): [Chrome 拡張機能](https://github.com/laplamgor/kantai3d-chrome-extension)
 > * 設定方法 B (パソコン [poi](https://github.com/poooi/poi)): [poi プラグイン](https://github.com/laplamgor/kantai3d-poi-plugin)
 > * 設定方法 C (パソコン): [KanColle Cache Proxy (KCCP)パッチャー](https://github.com/laplamgor/kantai3d-kccp-patcher)
 > * 設定方法 D (Android): [GotoBrowser (2.6以上)](https://github.com/antest1/GotoBrowser) - Kantai3Dは設定ページで入手できます
