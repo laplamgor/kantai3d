@@ -5,7 +5,7 @@
 > * 安裝方式一: [Chrome 擴充功能](https://github.com/laplamgor/kantai3d-chrome-extension)
 > * 安裝方式二: [poi 插件](https://github.com/laplamgor/kantai3d-poi-plugin)
 > * 安裝方式三: [KanColle Cache Proxy Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher)
-> * 安裝方式四(安卓): [GotoBrowser](https://github.com/antest1/GotoBrowser)
+> * 安裝方式四(Android / 安卓): [GotoBrowser](https://github.com/antest1/GotoBrowser)
 > * 貢獻深度圖適用: [深度圖庫](https://github.com/laplamgor/kantai3d-depth-maps)
 > * 貢獻自定義深度圖適用 (已棄用): ~~[Photoshop 深度圖預覽插件](https://github.com/laplamgor/kantai3d-photoshop-extension)~~
 > * 貢獻深度圖適用 (公測中): [網頁版編輯器](https://github.com/laplamgor/kantai3d-online-editor)
@@ -13,7 +13,7 @@
 
 
 # Kantai3D
-Kantai3D (前稱：艦隊立體化改修) 是艦隊收藏的第三方製作的遊戲MOD。唯一功能是為部份秘書艦添加仿立體的視覺效果及胸部物理。
+Kantai3D (前稱：艦隊立體化改修) 是艦隊收藏的第三方製作的遊戲MOD。功能是為秘書艦添加仿立體的視覺效果及胸部物理。
 
 
 ### 1. 仿立體效果：
@@ -23,7 +23,7 @@ Kantai3D (前稱：艦隊立體化改修) 是艦隊收藏的第三方製作的�
 
 本 MOD 並無使用 Live2D 技術亦與 PSV 遊戲無關。 本 MOD 的立體效果是使用視差遮蔽映射 (POM) 算法加上自製的深度圖渲染而成。順帶一提，3D大作遊戲經常在牆壁、地面上使用視差遮蔽映射特效增強凹凸感。
 
-### 2. 胸部物理  (v2.0+, 定制深度圖限定)：
+### 2. 胸部物理  (v2.0+，定制深度圖限定)：
 
 ![ezgif-7-39734d119569](https://user-images.githubusercontent.com/11514317/134775124-3ceb0bc6-a425-47c9-8219-5fb181767ade.gif)
 ![ezgif-5-7d7de6bb4a51](https://user-images.githubusercontent.com/11514317/144702132-9954f9ad-f43a-41f3-8db9-6eceda3ca156.gif)
@@ -48,7 +48,7 @@ Kantai3D (前稱：艦隊立體化改修) 是艦隊收藏的第三方製作的�
 
 # 安裝方法
 
-目前Kantai3D只支持一部份客戶端使用，您有以下安裝方法可選：
+目前 Kantai3D 支持大部份遊玩方法，以下是各客戶端的安裝方法：
 
 PC Chrome 用戶請使用 [Chrome 擴充功能](https://github.com/laplamgor/kantai3d-chrome-extension)。
 
@@ -57,7 +57,7 @@ PC poi 用戶請於"擴展程式"頁安裝 [專用插件](https://github.com/lap
 PC 其他瀏覽器用戶可利用 [KanColle Cache Proxy Patcher](https://github.com/laplamgor/kantai3d-kccp-patcher)。
 需配合 [KC Cache Proxy](https://github.com/Tibowl/KCCacheProxy) 一併使用。
 
-安卓用戶可使用第三方瀏覽器[GotoBrowser](https://github.com/antest1/GotoBrowser)。已內置Kantai3D作為試驗性功能。
+Android / 安卓用戶可使用第三方瀏覽器[GotoBrowser](https://github.com/antest1/GotoBrowser)。已內置Kantai3D作為試驗性功能。
 
 # 貢獻自定義手繪深度圖
 
@@ -65,7 +65,7 @@ PC 其他瀏覽器用戶可利用 [KanColle Cache Proxy Patcher](https://github.
 
 長遠打算必須開放生態，引進能自願參與製作深度圖的玩家們。
 
-因為PS門檻太高，深度圖原理又不好懂，我連[深度在線圖編輯器](https://github.com/laplamgor/kantai3d-online-editor)都整出來了。
+因為 PS 門檻太高，深度圖原理又不好懂，我連[深度在線圖編輯器](https://github.com/laplamgor/kantai3d-online-editor)都整出來了。
 
 (另外由於版權問題，原立繪素材請自行獲取)
 
@@ -78,12 +78,12 @@ PC 其他瀏覽器用戶可利用 [KanColle Cache Proxy Patcher](https://github.
 
 
 # 免責聲明
-Kantai3D並非官方正式同意使用的程式。使用Kantai3D可能違反DMM遊戲服務使用條款。
+Kantai3D 並非官方正式同意使用的程式。使用 Kantai3D 可能違反 DMM 遊戲服務使用條款。
 
-Kantai3D需要修改本地的遊戲客戶端以達成顯示效果，但不會修改任何遊戲內API收發，不會干預原本的遊戲流程或遊戲平衡。
+Kantai3D 需要修改本地的遊戲客戶端以達成顯示效果，但不會修改任何遊戲內 API 收發，不會干預原本的遊戲流程或遊戲平衡。
 
 請自行承擔使用風險。
 
-本MOD不含任何原遊戲資源或官方代碼。所使用的自定義深度圖都是完全手工制作。
+本 MOD 不含任何原遊戲資源或官方代碼。所使用的自定義深度圖都是完全手工制作。
 
 如有疑問請聯絡 laplamgor@gmail.com
